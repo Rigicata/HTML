@@ -1,0 +1,47 @@
+#principal{
+	width: 960px;
+	margin: auto;
+	background: blue;
+	padding: 10px;
+	border: solid 2px yellow;
+	
+
+	
+
+
+}
+
+
+#titulo{
+	color: red;
+	border: double 1px black;
+	margin: auto;
+	
+	
+
+
+
+
+}
+
+input[type = submit]{
+	background: white;
+	color: orange;
+	cursor: pointer;
+	padding: 10px 20px;
+	border: 0;
+
+	position: center;
+
+
+
+}
+
+input[type = submit]:hover{
+   background: black;
+}
+
+
+label{
+	color:pink;
+}
